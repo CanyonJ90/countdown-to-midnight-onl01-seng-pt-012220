@@ -9,6 +9,6 @@ end
 end
 
 
-def countdown_with_sleep
-  sleep(5)
+def countdown_with_sleep(num)
+  sleep(num)
 end
